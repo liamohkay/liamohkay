@@ -9,11 +9,7 @@
 - :computer: Full Stack Software Engineer 
 - :palm_tree: UCSB Alumni - Financial Mathematics & Statistics
 - :musical_keyboard: Music Nerd + DJ
-
-## Personal Projects
-- [SpotiBot](https://github.com/liamohkay/spotibot)
-- [Project Roadrunner](https://github.com/liamohkay/ProjectRoadrunner)
-
+- 
 ## Currently Working On
 - [Space Milk](https://github.com/liamohkay/SpaceMilk)
 - [Yonic Boom](https://github.com/liamohkay/YonicBoom)
