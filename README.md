@@ -11,7 +11,7 @@
 - :musical_keyboard: Music Nerd + DJ
 
 ## Currently Building
-- [Space Milk](https://github.com/liamohkay/PlanetSpaceMilk)
+- [Planet Space Milk](https://github.com/liamohkay/PlanetSpaceMilk)
 - [Yonic Boom](https://github.com/liamohkay/YonicBoom)
 
 ## Tech Stack
