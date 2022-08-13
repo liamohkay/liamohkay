@@ -9,6 +9,7 @@
 - :computer: Full-Stack Developer @ Canvas Worldwide
 - :palm_tree: UCSB Alumni - Financial Mathematics & Statistics
 - :musical_keyboard: Music Nerd + DJ
+- Check out SpotiBot @ https://spotibotwav.herokuapp.com
 
 ## Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
