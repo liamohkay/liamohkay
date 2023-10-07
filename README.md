@@ -6,7 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/spacemilkcollective)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/yoonakaliam/tracks)
 
-- :computer: Full-Stack Developer @ Canvas Worldwide
+- :computer: Software Engineer @ [Doran Jones](https://www.doranjones.com/)
 - :palm_tree: UCSB Alumni - Financial Mathematics & Statistics
 - :musical_keyboard: Music Nerd + DJ
 
